@@ -97,7 +97,7 @@ Maintainer: [Dr. Saad Laouadi](https://github.com/DrSaadLa)
   10. [Data.table](https://github.com/Rdatatable/data.table)
   
 ## Miscellaneous
-  - [R Task Views](https://cran.r-project.org/web/views/)
+  - [CRAN Task View](https://cran.r-project.org/web/views/)
   - [The R Journal](https://journal.r-project.org/)
 
 
