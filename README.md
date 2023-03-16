@@ -23,14 +23,15 @@ Maintainer: [Dr. Saad Laouadi](https://github.com/DrSaadLa)
       <th colspan="2">R Programming Books</th>
     </tr>
     <tr>
-      <th>Elementary Programming</th>
-      <th>Advanced Programming</th>
+      <th>Elementary Programming Books</th>
+      <th>Advanced Programming Books</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Row 1, Column 2</td>
-      <td>Row 1, Column 3</td>
+      <td>[R Wiki Books](https://en.wikibooks.org/wiki/R_Programming)</td>
+      <td>[R Programming: Zero to Pro](https://r02pro.github.io/)</td>
+      <td> <a href="(https://discdown.org/rprogramming/index.html)">Introduction to Programming with R</a></td>
     </tr>
     <tr>
       <td>Row 2, Column 2</td>
