@@ -18,9 +18,9 @@ Maintainer: [Dr. Saad Laouadi](https://github.com/DrSaadLa)
 
 <section style="width:100%;background:grey;">
   <table width="100%">
-  <thead style="background-color:grey;">
+  <thead >
     <tr>
-      <th colspan="2">R Programming Books</th>
+      <th colspan="2" style="background-color:grey;">R Programming Books</th>
     </tr>
     <tr>
       <th>Elementary Programming Books</th>
