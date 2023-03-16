@@ -11,6 +11,8 @@ Maintainer: [Dr. Saad Laouadi](https://github.com/DrSaadLa)
 
   1. [The Comprehensive R Archive Network](https://cran.r-project.org/)
   2. [RStudio IDE](https://posit.co/downloads/)
+  3. [ESS](https://ess.r-project.org/index.php?Section=home)
+  4. [Eclipse StatET](https://projects.eclipse.org/projects/science.statet)
 
 ## Programming Books
 
