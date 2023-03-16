@@ -37,7 +37,7 @@ Maintainer: [Dr. Saad Laouadi](https://github.com/DrSaadLa)
       <td>Row 2, Column 3</td>
     </tr>
     <tr>
-      <td><a href="(https://discdown.org/rprogramming/index.html)">Introduction to Programming with R</a></td>
+      <td><a href="https://discdown.org/rprogramming/index.html">Introduction to Programming with R</a></td>
       <td>Row 3, Column 3</td>
     </tr>
   </tbody>
