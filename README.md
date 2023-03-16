@@ -16,7 +16,7 @@ Maintainer: [Dr. Saad Laouadi](https://github.com/DrSaadLa)
 
 ## Programming Books
 
-<section>
+<!-- <section>
   <table width="100%">
   <thead >
     <tr>
@@ -34,7 +34,7 @@ Maintainer: [Dr. Saad Laouadi](https://github.com/DrSaadLa)
     </tr>
     <tr>
       <td><a href="https://r02pro.github.io">R Programming: Zero to Pro</a></td>
-      <td>Row 2, Column 3</td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="https://discdown.org/rprogramming/index.html">Introduction to Programming with R</a></td>
@@ -50,7 +50,7 @@ Maintainer: [Dr. Saad Laouadi](https://github.com/DrSaadLa)
     </tr>
   </tbody>
 </table>
-</section>
+</section> -->
 
 
 
