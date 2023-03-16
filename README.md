@@ -18,7 +18,7 @@ Maintainer: [Dr. Saad Laouadi](https://github.com/DrSaadLa)
 
 <section style="width:100%;">
   <table width="100%">
-  <thead>
+  <thead width="100%">
     <tr>
       <th colspan="2">R Programming Books</th>
     </tr>
