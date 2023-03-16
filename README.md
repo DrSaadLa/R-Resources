@@ -29,16 +29,15 @@ Maintainer: [Dr. Saad Laouadi](https://github.com/DrSaadLa)
   </thead>
   <tbody>
     <tr>
-      <td>[R Wiki Books](https://en.wikibooks.org/wiki/R_Programming)</td>
-      <td>[R Programming: Zero to Pro](https://r02pro.github.io/)</td>
-      <td> <a href="(https://discdown.org/rprogramming/index.html)">Introduction to Programming with R</a></td>
+      <td><a href="https://en.wikibooks.org/wiki/R_Programming">R Wiki Books</a></td>
+      <td></td>
     </tr>
     <tr>
-      <td>Row 2, Column 2</td>
+      <td><a href="https://r02pro.github.io">R Programming: Zero to Pro</a></td>
       <td>Row 2, Column 3</td>
     </tr>
     <tr>
-      <td>Row 3, Column 2</td>
+      <td><a href="(https://discdown.org/rprogramming/index.html)">Introduction to Programming with R</a></td>
       <td>Row 3, Column 3</td>
     </tr>
   </tbody>
