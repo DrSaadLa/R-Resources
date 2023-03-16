@@ -60,6 +60,9 @@ Maintainer: [Dr. Saad Laouadi](https://github.com/DrSaadLa)
   7. [KBroman](https://kbroman.org/datacarpentry_R_2016-08-23/01-intro-to-R.html)
   8. [Englelab](https://englelab.gatech.edu/useRguide/index.html)
 ## Blogs 
-  1. [statsandr](https://statsandr.com/)
+  1. [R-bloggers](https://www.r-bloggers.com/)
+  2. [RStudio Blog](https://posit.co/blog/)
+  3. [Tidyverse Blog](https://www.tidyverse.org/blog/)
+  4. [statsandr](https://statsandr.com/)
 ## Github Repos
   1. [RStudio Github Repos](https://github.com/rstudio)
