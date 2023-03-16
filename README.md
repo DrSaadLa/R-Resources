@@ -33,3 +33,5 @@ Maintainer: [Dr. Saad Laouadi](https://github.com/DrSaadLa)
   1. [W3School](https://www.w3schools.com/r/default.asp)
   2. [Datamentor](https://www.datamentor.io/r-programming/)
   3. [javaTpoint](https://www.javatpoint.com/r-tutorial)
+  4. [Software Carpentry](https://swcarpentry.github.io/r-novice-inflammation/)
+  5. 
