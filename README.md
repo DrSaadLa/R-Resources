@@ -8,3 +8,21 @@ In this list, you will find books, tutorials, courses, blogs, forums, and other 
 Maintainer: [Dr. Saad Laouadi](https://github.com/DrSaadLa)
 
 ## R Installation and Setup 
+
+
+
+## Elementary Programming Books
+
+
+## Advanced Programming Books
+
+
+## Data Science Books
+
+
+
+## Time Series Books
+
+
+
+## Econometrics with R Books 
