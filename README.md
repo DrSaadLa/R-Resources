@@ -38,7 +38,15 @@ Maintainer: [Dr. Saad Laouadi](https://github.com/DrSaadLa)
     </tr>
     <tr>
       <td><a href="https://discdown.org/rprogramming/index.html">Introduction to Programming with R</a></td>
-      <td>Row 3, Column 3</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://colinfay.me/intro-to-r/">An Introduction to R</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://bookdown.org/content/d1e53ac9-28ce-472f-bc2c-f499f18264a3/">Best Coding Practices for R</a></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
