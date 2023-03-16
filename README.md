@@ -18,7 +18,7 @@ Maintainer: [Dr. Saad Laouadi](https://github.com/DrSaadLa)
 
 <section style="width:100%;background:grey;">
   <table width="100%">
-  <thead width="100%">
+  <thead style="background-color:grey;">
     <tr>
       <th colspan="2">R Programming Books</th>
     </tr>
