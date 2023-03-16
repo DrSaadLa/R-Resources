@@ -53,15 +53,15 @@ Maintainer: [Dr. Saad Laouadi](https://github.com/DrSaadLa)
 
 
 ## Websites 
-
-  1. [W3School](https://www.w3schools.com/r/default.asp)
-  2. [Datamentor](https://www.datamentor.io/r-programming/)
-  3. [javaTpoint](https://www.javatpoint.com/r-tutorial)
-  4. [Software Carpentry](https://swcarpentry.github.io/r-novice-inflammation/)
-  5. [John D. Cook](https://www.johndcook.com/blog/r_language_for_programmers/)
-  6. [Count Bio](http://www.countbio.com/index.html)
-  7. [KBroman](https://kbroman.org/datacarpentry_R_2016-08-23/01-intro-to-R.html)
-  8. [Englelab](https://englelab.gatech.edu/useRguide/index.html)
+  1. [Statsmethods](https://www.statmethods.net/)
+  3. [W3School](https://www.w3schools.com/r/default.asp)
+  4. [Datamentor](https://www.datamentor.io/r-programming/)
+  5. [javaTpoint](https://www.javatpoint.com/r-tutorial)
+  6. [Software Carpentry](https://swcarpentry.github.io/r-novice-inflammation/)
+  7. [John D. Cook](https://www.johndcook.com/blog/r_language_for_programmers/)
+  8. [Count Bio](http://www.countbio.com/index.html)
+  9. [KBroman](https://kbroman.org/datacarpentry_R_2016-08-23/01-intro-to-R.html)
+  10. [Englelab](https://englelab.gatech.edu/useRguide/index.html)
 ## Blogs 
   1. [R-bloggers](https://www.r-bloggers.com/)
   2. [RStudio Blog](https://posit.co/blog/)
