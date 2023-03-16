@@ -28,6 +28,7 @@ Maintainer: [Dr. Saad Laouadi](https://github.com/DrSaadLa)
   4. [R Packages](https://r-pkgs.org/)
   5. [Licensing R](https://thinkr-open.github.io/licensing-r/)
   6. [Mastering Software Development in R](https://bookdown.org/rdpeng/RProgDA/)
+  7. [The R Manuals](https://cran.r-project.org/)
 
 
 ## Data Science Books
