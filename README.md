@@ -24,6 +24,8 @@ Maintainer: [Dr. Saad Laouadi](https://github.com/DrSaadLa)
 4. [Best Coding Practices for R](https://bookdown.org/content/d1e53ac9-28ce-472f-bc2c-f499f18264a3/)
 
 
+
+
 ### Advanced Programming Books
   1. [Advanced R](https://adv-r.hadley.nz/index.html)
   2. [Functional Programming](https://dcl-prog.stanford.edu/)
@@ -34,12 +36,16 @@ Maintainer: [Dr. Saad Laouadi](https://github.com/DrSaadLa)
   7. [The R Manuals](https://cran.r-project.org/)
 
 
+
+
 ## Data Science Books
   1. [Data Science with R Book](https://datasciencebook.ca/)
   2. [R for Data Science](https://r4ds.had.co.nz/index.html)
   3. [STAT 545](https://stat545.com/)
   4. [UC Business Analytics R Programming Guide](http://uc-r.github.io/)
   5. [Hands-On Spatial Data Science with R](https://spatialanalysis.github.io/handsonspatialdata/)
+
+
 
 
 ## Time Series Books
@@ -63,6 +69,9 @@ Maintainer: [Dr. Saad Laouadi](https://github.com/DrSaadLa)
   9. [KBroman](https://kbroman.org/datacarpentry_R_2016-08-23/01-intro-to-R.html)
   10. [Englelab](https://englelab.gatech.edu/useRguide/index.html)
   11. [jennybc](https://jennybc.github.io/purrr-tutorial/index.html)
+
+
+
 ## Blogs 
   1. [R-bloggers](https://www.r-bloggers.com/)
   2. [RStudio Blog](https://posit.co/blog/)
@@ -88,6 +97,7 @@ Maintainer: [Dr. Saad Laouadi](https://github.com/DrSaadLa)
   10. [Data.table](https://github.com/Rdatatable/data.table)
   
 ## Miscellaneous
+  - [R Task Views](https://cran.r-project.org/web/views/)
   - [The R Journal](https://journal.r-project.org/)
 
 
