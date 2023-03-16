@@ -16,7 +16,7 @@ Maintainer: [Dr. Saad Laouadi](https://github.com/DrSaadLa)
 
 ## Programming Books
 
-<section style="width:100%;">
+<section style="width:100%;background:grey;">
   <table width="100%">
   <thead width="100%">
     <tr>
