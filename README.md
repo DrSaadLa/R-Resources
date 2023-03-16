@@ -1,5 +1,5 @@
 # Useful R Programming Resources
--------
+
 Welcome to this curated list of resources dedicated to R programming, Data Science, and Econometrics! This is a comprehensive collection of hand-picked materials that can be a great starting point for anyone who wants to learn more about using R for data analysis, statistical modeling, and econometric applications. 
 
 
