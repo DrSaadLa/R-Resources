@@ -77,6 +77,15 @@ Maintainer: [Dr. Saad Laouadi](https://github.com/DrSaadLa)
   11. [statsandr](https://statsandr.com/)
 ## Github Repos
   1. [RStudio Github Repos](https://github.com/rstudio)
+  2. [R for Data Science](https://github.com/hadley/r4ds)
+  3. [Anomaly Detection](https://github.com/twitter/AnomalyDetection)
+  4. [ML for Hackers](https://github.com/johnmyleswhite/ML_for_Hackers)
+  5. [Swirl Courses](https://github.com/swirldev/swirl_courses)
+  6. [Dplyr](https://github.com/tidyverse/dplyr)
+  7. [Shiny](https://github.com/rstudio/shiny)
+  8. [Awesome R](https://github.com/qinwf/awesome-R)
+  9. [GGplot2](https://github.com/tidyverse/ggplot2)
+  10. [Data.table](https://github.com/Rdatatable/data.table)
   
 ## Miscellaneous
   - [The R Journal](https://journal.r-project.org/)
