@@ -103,28 +103,23 @@ Maintainer: [Dr. Saad Laouadi](https://github.com/DrSaadLa)
 <table>
   <thead>
     <tr>
-      <th>Header 1</th>
       <th colspan="2">Header 2</th>
     </tr>
     <tr>
-      <th>Column 1</th>
       <th>Column 2</th>
       <th>Column 3</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Row 1, Column 1</td>
       <td>Row 1, Column 2</td>
       <td>Row 1, Column 3</td>
     </tr>
     <tr>
-      <td>Row 2, Column 1</td>
       <td>Row 2, Column 2</td>
       <td>Row 2, Column 3</td>
     </tr>
     <tr>
-      <td>Row 3, Column 1</td>
       <td>Row 3, Column 2</td>
       <td>Row 3, Column 3</td>
     </tr>
