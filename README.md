@@ -89,3 +89,7 @@ Maintainer: [Dr. Saad Laouadi](https://github.com/DrSaadLa)
   
 ## Miscellaneous
   - [The R Journal](https://journal.r-project.org/)
+
+
+## License 
+This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
