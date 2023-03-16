@@ -20,7 +20,7 @@ Maintainer: [Dr. Saad Laouadi](https://github.com/DrSaadLa)
   <table width="100%">
   <thead >
     <tr>
-      <th colspan="2" style="background-color:grey;">R Programming Books</th>
+      <th colspan="2" color="blue">R Programming Books</th>
     </tr>
     <tr>
       <th>Elementary Programming Books</th>
