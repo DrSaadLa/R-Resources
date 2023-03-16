@@ -16,7 +16,7 @@ Maintainer: [Dr. Saad Laouadi](https://github.com/DrSaadLa)
 
 ## Programming Books
 
-<div width="100%">
+<section style="width:100%;">
   <table width="100%">
   <thead>
     <tr>
@@ -42,7 +42,7 @@ Maintainer: [Dr. Saad Laouadi](https://github.com/DrSaadLa)
     </tr>
   </tbody>
 </table>
-</div>
+</section>
 
 
 
