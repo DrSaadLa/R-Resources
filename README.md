@@ -100,6 +100,36 @@ Maintainer: [Dr. Saad Laouadi](https://github.com/DrSaadLa)
   - [CRAN Task View](https://cran.r-project.org/web/views/)
   - [The R Journal](https://journal.r-project.org/)
 
+<table>
+  <thead>
+    <tr>
+      <th>Header 1</th>
+      <th colspan="2">Header 2</th>
+    </tr>
+    <tr>
+      <th>Column 1</th>
+      <th>Column 2</th>
+      <th>Column 3</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Row 1, Column 1</td>
+      <td>Row 1, Column 2</td>
+      <td>Row 1, Column 3</td>
+    </tr>
+    <tr>
+      <td>Row 2, Column 1</td>
+      <td>Row 2, Column 2</td>
+      <td>Row 2, Column 3</td>
+    </tr>
+    <tr>
+      <td>Row 3, Column 1</td>
+      <td>Row 3, Column 2</td>
+      <td>Row 3, Column 3</td>
+    </tr>
+  </tbody>
+</table>
 
 ## License 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
