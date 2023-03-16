@@ -82,6 +82,7 @@ Maintainer: [Dr. Saad Laouadi](https://github.com/DrSaadLa)
   3. [STAT 545](https://stat545.com/)
   4. [UC Business Analytics R Programming Guide](http://uc-r.github.io/)
   5. [Hands-On Spatial Data Science with R](https://spatialanalysis.github.io/handsonspatialdata/)
+  6. [Modern R with the tidyverse](http://modern-rstats.eu/)
 
 
 
