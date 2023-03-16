@@ -121,8 +121,12 @@ Maintainer: [Dr. Saad Laouadi](https://github.com/DrSaadLa)
   7. [Revolutions](https://blog.revolutionanalytics.com/about.html)
   8. [Flowing Data](https://flowingdata.com/)
   9. [Simply Statistics](https://simplystatistics.org/)
+  10. [Dirk EddelBuettel](https://dirk.eddelbuettel.com/blog/)
   10. [Yihui's Blog](https://yihui.org/en/)
   11. [statsandr](https://statsandr.com/)
+  
+  
+  
 ## Github Repos
   1. [RStudio Github Repos](https://github.com/rstudio)
   2. [R for Data Science](https://github.com/hadley/r4ds)
