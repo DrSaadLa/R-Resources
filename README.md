@@ -16,7 +16,7 @@ Maintainer: [Dr. Saad Laouadi](https://github.com/DrSaadLa)
 
 ## Programming Books
 
-<div>
+<div width="100%">
   <table width="100%">
   <thead>
     <tr>
