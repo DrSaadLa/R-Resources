@@ -62,6 +62,7 @@ Maintainer: [Dr. Saad Laouadi](https://github.com/DrSaadLa)
   8. [Count Bio](http://www.countbio.com/index.html)
   9. [KBroman](https://kbroman.org/datacarpentry_R_2016-08-23/01-intro-to-R.html)
   10. [Englelab](https://englelab.gatech.edu/useRguide/index.html)
+  11. [jennybc](https://jennybc.github.io/purrr-tutorial/index.html)
 ## Blogs 
   1. [R-bloggers](https://www.r-bloggers.com/)
   2. [RStudio Blog](https://posit.co/blog/)
