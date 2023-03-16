@@ -75,3 +75,6 @@ Maintainer: [Dr. Saad Laouadi](https://github.com/DrSaadLa)
   11. [statsandr](https://statsandr.com/)
 ## Github Repos
   1. [RStudio Github Repos](https://github.com/rstudio)
+  
+## Miscellaneous
+  - [The R Journal](https://journal.r-project.org/)
