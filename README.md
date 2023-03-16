@@ -9,12 +9,12 @@ Maintainer: [Dr. Saad Laouadi](https://github.com/DrSaadLa)
 
 ## R Installation and Setup 
 
+## Programming Books
+
+### Elementary Programming Books
 
 
-## Elementary Programming Books
-
-
-## Advanced Programming Books
+### Advanced Programming Books
 
 
 ## Data Science Books
@@ -26,3 +26,10 @@ Maintainer: [Dr. Saad Laouadi](https://github.com/DrSaadLa)
 
 
 ## Econometrics with R Books 
+
+
+## Websites 
+
+  1. [W3School](https://www.w3schools.com/r/default.asp)
+  2. [Datamentor](https://www.datamentor.io/r-programming/)
+  3. [javaTpoint](https://www.javatpoint.com/r-tutorial)
