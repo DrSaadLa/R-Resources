@@ -17,6 +17,7 @@ Maintainer: [Dr. Saad Laouadi](https://github.com/DrSaadLa)
 ## Programming Books
 
 ### Elementary Programming Books
+1. [R Wiki Books](https://en.wikibooks.org/wiki/R_Programming)
 1. [R Programming: Zero to Pro](https://r02pro.github.io/)
 2. [Introduction to Programming with R](https://discdown.org/rprogramming/index.html)
 3. [An Introduction to R](https://colinfay.me/intro-to-r/)
