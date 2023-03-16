@@ -17,9 +17,17 @@ Maintainer: [Dr. Saad Laouadi](https://github.com/DrSaadLa)
 ### Elementary Programming Books
 1. [R Programming: Zero to Pro](https://r02pro.github.io/)
 2. [Introduction to Programming with R](https://discdown.org/rprogramming/index.html)
+3. [An Introduction to R](https://colinfay.me/intro-to-r/)
+4. [Best Coding Practices for R](https://bookdown.org/content/d1e53ac9-28ce-472f-bc2c-f499f18264a3/)
 
 
 ### Advanced Programming Books
+  1. [Advanced R](https://adv-r.hadley.nz/index.html)
+  2. [Functional Programming](https://dcl-prog.stanford.edu/)
+  3. [Efficient R programming](https://csgillespie.github.io/efficientR/)
+  4. [R Packages](https://r-pkgs.org/)
+  5. [Licensing R](https://thinkr-open.github.io/licensing-r/)
+  6. [Mastering Software Development in R](https://bookdown.org/rdpeng/RProgDA/)
 
 
 ## Data Science Books
@@ -27,10 +35,12 @@ Maintainer: [Dr. Saad Laouadi](https://github.com/DrSaadLa)
   2. [R for Data Science](https://r4ds.had.co.nz/index.html)
   3. [STAT 545](https://stat545.com/)
   4. [UC Business Analytics R Programming Guide](http://uc-r.github.io/)
+  5. [Hands-On Spatial Data Science with R](https://spatialanalysis.github.io/handsonspatialdata/)
 
 
 ## Time Series Books
-
+  1. [Applied Time Series Analysis with R](https://smac-group.github.io/ts/)
+  2. [Forecasting: Principles and Practice](https://otexts.com/fpp3/)
 
 
 ## Econometrics with R Books 
@@ -45,4 +55,10 @@ Maintainer: [Dr. Saad Laouadi](https://github.com/DrSaadLa)
   3. [javaTpoint](https://www.javatpoint.com/r-tutorial)
   4. [Software Carpentry](https://swcarpentry.github.io/r-novice-inflammation/)
   5. [John D. Cook](https://www.johndcook.com/blog/r_language_for_programmers/)
-  6. 
+  6. [Count Bio](http://www.countbio.com/index.html)
+  7. [KBroman](https://kbroman.org/datacarpentry_R_2016-08-23/01-intro-to-R.html)
+  8. [Englelab](https://englelab.gatech.edu/useRguide/index.html)
+## Blogs 
+  1. [statsandr](https://statsandr.com/)
+## Github Repos
+  1. [RStudio Github Repos](https://github.com/rstudio)
