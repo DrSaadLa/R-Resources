@@ -9,6 +9,9 @@ Maintainer: [Dr. Saad Laouadi](https://github.com/DrSaadLa)
 
 ## R Installation and Setup 
 
+  1. [The Comprehensive R Archive Network](https://cran.r-project.org/)
+  2. [RStudio IDE](https://posit.co/downloads/)
+
 ## Programming Books
 
 ### Elementary Programming Books
