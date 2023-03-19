@@ -144,6 +144,15 @@ Maintainer: [Dr. Saad Laouadi](https://github.com/DrSaadLa)
   - [CRAN Task View](https://cran.r-project.org/web/views/)
   - [The R Journal](https://journal.r-project.org/)
 
+# Programming Topics 
+
+## Regular Expressions
+
+A regular expression or (regex) is a sequence of characters that defines a search pattern. It is used to match and manipulate text based on specific rules or patterns. Here are useful resources 
+  1. [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
+  2. [RegexOne](https://regexone.com/)
+  2. [Regular Expressions chapter (R for Data science Book)](https://r4ds.hadley.nz/regexps.html)
+  
 
 
 ## License 
