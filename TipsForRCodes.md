@@ -36,7 +36,7 @@ Writing better code is some kind of an art, some codes are beatiful and some are
     The output will be like this:
     
     
-    ```r
+<code>
 ##*************************************************************************
 ##*************************************************************************
 ##                                                                       **
@@ -45,7 +45,7 @@ Writing better code is some kind of an art, some codes are beatiful and some are
 ##                                                                       **
 ##*************************************************************************
 ##*************************************************************************
-```
+</code>
 
 
 
