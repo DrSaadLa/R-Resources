@@ -52,16 +52,13 @@ Writing better code is some kind of an art, some codes are beatiful and some are
 </code>
 
 
-
-• create a script or program to store R commands;
-• use RStudio;
-• lay out the program with lots of spaces, indents and comments (using #);
-• be clear about what is wanted from the code: once that is done, stop;
-• test the program, line by line, as it is written;
-• use object names that mean something;
-
+- create a script or program to store R commands;
 - using clear and concise variable names
--  commenting code to explain its purpose,
--  Avoiding duplicate code whenever possible.
-• try not to use attach (): if it is absolutely necessary, then use detach () immediately after finishing use of the dataframe;
-• always look for an alternative to loops, although there may not be one.
+- lay out the program with lots of spaces
+- Indentation
+- Commenting code to explain its purpose, Use one or two `#` and stick to it
+- Avoiding duplicate code whenever possible.
+- Try not to use attach (): if it is absolutely necessary, then use detach () immediately after finishing use of the dataframe;
+- Always look for an alternative to loops, although there may not be one.
+- be clear about what is wanted from the code: once that is done, stop
+- test the program, line by line, as it is written;
