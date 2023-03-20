@@ -32,7 +32,8 @@ Writing better code is some kind of an art, some codes are beatiful and some are
     <code>bannerCommenter::banner("Project Name Title", 
       "Project Name Subtitle", 
       emph = TRUE, bandChar = "*", 
-      leftSideHashes = 2)</code>
+      leftSideHashes = 2)
+      </code>
     
     
     The output will be like this:
@@ -45,7 +46,8 @@ Writing better code is some kind of an art, some codes are beatiful and some are
 ##                         PROJECT NAME SUBTITLE                         **
 ##                                                                       **
 ##*************************************************************************
-##*************************************************************************</code>
+##*************************************************************************
+</code>
 
 
 
