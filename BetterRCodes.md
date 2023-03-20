@@ -62,3 +62,6 @@ Writing better code is some kind of an art, some codes are beatiful and some are
 - Always look for an alternative to loops, although there may not be one.
 - be clear about what is wanted from the code: once that is done, stop
 - test the program, line by line, as it is written;
+
+
+2. Create Sections: If you are using RStudio, it is in the Code tab --> insert section (the shortcut is Option + Shit + R)
