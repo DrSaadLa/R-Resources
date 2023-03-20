@@ -29,23 +29,23 @@ Writing better code is some kind of an art, some codes are beatiful and some are
     - The project name: I use this code to create the project name and make it stand out:
     
     
-    ```r
-    bannerCommenter::banner("Project Name Title", "Project Name Subtitle", emph = TRUE, bandChar = "*", leftSideHashes = 2)
-    ```
+    <code>bannerCommenter::banner("Project Name Title", 
+      "Project Name Subtitle", 
+      emph = TRUE, bandChar = "*", 
+      leftSideHashes = 2)
+    </code>
     
     The output will be like this:
     
     
-<code>
-##*************************************************************************
+<code>##*************************************************************************
 ##*************************************************************************
 ##                                                                       **
 ##                          PROJECT NAME TITLE                           **
 ##                         PROJECT NAME SUBTITLE                         **
 ##                                                                       **
 ##*************************************************************************
-##*************************************************************************
-</code>
+##*************************************************************************</code>
 
 
 
