@@ -26,14 +26,18 @@ Choosing a goode IDE helps carry out projects a great deal. An IDE has options t
 Writing better code is some kind of an art, some codes are beatiful and some are ugly. I try to provide tips to write beautiful code. 
 
   1. Use headers to indicate the project name and section names. I use the `bannerCommenter` package to name sections for example:
-    - The project name: I use this code to create the project name and make it stand out
+    - The project name: I use this code to create the project name and make it stand out:
+    
+    
     ```r
     bannerCommenter::banner("Project Name Title", "Project Name Subtitle", emph = TRUE, bandChar = "*", leftSideHashes = 2)
     ```
+    
     The output will be like this:
     
+    
     ```r
-    ##*************************************************************************
+##*************************************************************************
 ##*************************************************************************
 ##                                                                       **
 ##                          PROJECT NAME TITLE                           **
@@ -41,7 +45,8 @@ Writing better code is some kind of an art, some codes are beatiful and some are
 ##                                                                       **
 ##*************************************************************************
 ##*************************************************************************
-    ```
+```
+
 
 
 • create a script or program to store R commands;
