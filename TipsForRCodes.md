@@ -16,7 +16,7 @@ Organazing a project into files is of paramount importance, I suggest start crea
 
 ## Choosing a Good IDE 
 Choosing a goode IDE helps carry out projects a great deal. An IDE has options that help organize the project easily such as creating the files above without leaving the environment. You have everything in one place
-  - <emp>Using RStudio<emp>: This the best and the most recommended IDE
+  - <strong>Using RStudio</strong>: This the best and the most recommended IDE
   - VS Code: It is a good IDE 
   - Eclipse for R or `StatET`
 
