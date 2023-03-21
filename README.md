@@ -61,7 +61,7 @@ Maintainer: [Dr. Saad Laouadi](https://github.com/DrSaadLa)
 4. [Introduction to Programming with R](https://discdown.org/rprogramming/index.html)
 5. [An Introduction to R](https://colinfay.me/intro-to-r/)
 6. [Best Coding Practices for R](https://bookdown.org/content/d1e53ac9-28ce-472f-bc2c-f499f18264a3/)
-
+7. [R Course](https://bookdown.org/brry/course/)
 
 
 
@@ -74,6 +74,7 @@ Maintainer: [Dr. Saad Laouadi](https://github.com/DrSaadLa)
   6. [Mastering Software Development in R](https://bookdown.org/rdpeng/RProgDA/)
   7. [The R Manuals](https://cran.r-project.org/)
   8. [R Graphics Cookbook](https://r-graphics.org/)
+  
 
 ### Markdown Books
   1. [R Markdown](https://bookdown.org/yihui/rmarkdown/)
@@ -97,6 +98,8 @@ Maintainer: [Dr. Saad Laouadi](https://github.com/DrSaadLa)
   1. [Applied Time Series Analysis with R](https://smac-group.github.io/ts/)
   2. [Forecasting: Principles and Practice](https://otexts.com/fpp3/)
 
+## Statistics 
+  1. [Advanced Statistical Modelling](https://bookdown.org/ssjackson300/ASM_Lecture_Notes/)
 
 ## Econometrics with R Books 
   1. [Introduction to Econometrics with R](https://www.econometrics-with-r.org/)
