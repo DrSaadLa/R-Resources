@@ -89,6 +89,7 @@ Maintainer: [Dr. Saad Laouadi](https://github.com/DrSaadLa)
   4. [UC Business Analytics R Programming Guide](http://uc-r.github.io/)
   5. [Hands-On Spatial Data Science with R](https://spatialanalysis.github.io/handsonspatialdata/)
   6. [Modern R with the tidyverse](http://modern-rstats.eu/)
+  7. [Tidy Modelling with R](https://www.tmwr.org/)
 
 
 ## Text Mining
