@@ -73,8 +73,12 @@ Maintainer: [Dr. Saad Laouadi](https://github.com/DrSaadLa)
   5. [Licensing R](https://thinkr-open.github.io/licensing-r/)
   6. [Mastering Software Development in R](https://bookdown.org/rdpeng/RProgDA/)
   7. [The R Manuals](https://cran.r-project.org/)
+  8. [R Graphics Cookbook](https://r-graphics.org/)
 
-
+### Markdown Books
+  1. [R Markdown](https://bookdown.org/yihui/rmarkdown/)
+  2. [R Bookdown](https://bookdown.org/yihui/bookdown/)
+  3. [R Blogdown](https://bookdown.org/yihui/blogdown/)
 
 
 ## Data Science Books
@@ -86,7 +90,8 @@ Maintainer: [Dr. Saad Laouadi](https://github.com/DrSaadLa)
   6. [Modern R with the tidyverse](http://modern-rstats.eu/)
 
 
-
+## Text Mining
+  - [Text Mining](https://www.tidytextmining.com/)
 
 ## Time Series Books
   1. [Applied Time Series Analysis with R](https://smac-group.github.io/ts/)
@@ -144,6 +149,7 @@ Maintainer: [Dr. Saad Laouadi](https://github.com/DrSaadLa)
 ## Miscellaneous
   - [CRAN Task View](https://cran.r-project.org/web/views/)
   - [The R Journal](https://journal.r-project.org/)
+  - [Sources written in Bookdwon](https://bookdown.org/home/archive/)
 
 # Programming Topics 
 
