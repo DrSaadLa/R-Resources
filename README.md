@@ -100,6 +100,7 @@ Maintainer: [Dr. Saad Laouadi](https://github.com/DrSaadLa)
 
 ## Statistics 
   1. [Advanced Statistical Modelling](https://bookdown.org/ssjackson300/ASM_Lecture_Notes/)
+  2. [Applied Generalized Linear Models and Multilevel](https://bookdown.org/roback/bookdown-BeyondMLR/)
 
 ## Econometrics with R Books 
   1. [Introduction to Econometrics with R](https://www.econometrics-with-r.org/)
