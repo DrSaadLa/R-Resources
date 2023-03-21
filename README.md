@@ -91,6 +91,9 @@ Maintainer: [Dr. Saad Laouadi](https://github.com/DrSaadLa)
   5. [Hands-On Spatial Data Science with R](https://spatialanalysis.github.io/handsonspatialdata/)
   6. [Modern R with the tidyverse](http://modern-rstats.eu/)
   7. [Tidy Modelling with R](https://www.tmwr.org/)
+  8. [Practical Data Skills](https://bookdown.org/hbsabafaculty/ids_book/)
+  9. [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
+  10. [Artificial intelligence and Machine Learning for Social Scientists](https://bookdown.org/paul/ai_ml_for_social_scientists/)
 
 
 ## Text Mining
@@ -103,6 +106,8 @@ Maintainer: [Dr. Saad Laouadi](https://github.com/DrSaadLa)
 ## Statistics 
   1. [Advanced Statistical Modelling](https://bookdown.org/ssjackson300/ASM_Lecture_Notes/)
   2. [Applied Generalized Linear Models and Multilevel](https://bookdown.org/roback/bookdown-BeyondMLR/)
+  3. [Foundations of Statistics with R](https://bookdown.org/speegled/foundations-of-statistics/)
+  4. [Generalized Linear Mixture Model](Generalized Linear Mixture Model)
 
 ## Econometrics with R Books 
   1. [Introduction to Econometrics with R](https://www.econometrics-with-r.org/)
