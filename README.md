@@ -83,6 +83,7 @@ Maintainer: [Dr. Saad Laouadi](https://github.com/DrSaadLa)
 
 
 ## Data Science Books
+  1. [Introduction to Data Science](http://rafalab.dfci.harvard.edu/dsbook/)
   1. [Data Science with R Book](https://datasciencebook.ca/)
   2. [R for Data Science](https://r4ds.had.co.nz/index.html)
   3. [STAT 545](https://stat545.com/)
