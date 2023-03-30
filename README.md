@@ -156,6 +156,7 @@ Maintainer: [Dr. Saad Laouadi](https://github.com/DrSaadLa)
   9. [GGplot2](https://github.com/tidyverse/ggplot2)
   10. [Data.table](https://github.com/Rdatatable/data.table)
   11. [Garric Aden Buie](https://github.com/gadenbuie)
+  12. [R Programming @ University of Cincinnati](https://github.com/uc-r)
   
 ## Miscellaneous
   - [CRAN Task View](https://cran.r-project.org/web/views/)
