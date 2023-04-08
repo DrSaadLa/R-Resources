@@ -107,7 +107,7 @@ Maintainer: [Dr. Saad Laouadi](https://github.com/DrSaadLa)
   1. [Advanced Statistical Modelling](https://bookdown.org/ssjackson300/ASM_Lecture_Notes/)
   2. [Applied Generalized Linear Models and Multilevel](https://bookdown.org/roback/bookdown-BeyondMLR/)
   3. [Foundations of Statistics with R](https://bookdown.org/speegled/foundations-of-statistics/)
-  4. [Generalized Linear Mixture Model](Generalized Linear Mixture Model)
+  4. [Generalized Linear Mixture Model](https://bookdown.org/ks6017/GLM_bookdown3/)
 
 ## Econometrics with R Books 
   1. [Introduction to Econometrics with R](https://www.econometrics-with-r.org/)
