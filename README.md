@@ -94,6 +94,7 @@ Maintainer: [Dr. Saad Laouadi](https://github.com/DrSaadLa)
   8. [Practical Data Skills](https://bookdown.org/hbsabafaculty/ids_book/)
   9. [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
   10. [Artificial intelligence and Machine Learning for Social Scientists](https://bookdown.org/paul/ai_ml_for_social_scientists/)
+  11. [Data Skills for Reproducible Research](https://psyteachr.github.io/reprores-v3/index.html)
 
 
 ## Text Mining
