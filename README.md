@@ -114,6 +114,8 @@ Maintainer: [Dr. Saad Laouadi](https://github.com/DrSaadLa)
   1. [Introduction to Econometrics with R](https://www.econometrics-with-r.org/)
   2. [Introduction to R for Econometrics](https://bookdown.org/kieranmarray/intro_to_r_for_econometrics/)
 
+## Statistics Online 
+  - [PenState Eberly College of Science](https://online.stat.psu.edu/statprogram/)
 
 ## Websites 
   1. [Statsmethods](https://www.statmethods.net/)
